@@ -1,9 +1,7 @@
-# 🚀 Reddit TLDR Genius 
+# 🚀  ScrollLess TLDR
 
 **Stop scrolling. Start vibing.**  
 A browser extension that summarizes Reddit posts, comments, and drama in seconds. Perfect for ADHD brains, chronic skimmers, and people who just *really* hate essays.
-
-![Demo GIF Placeholder](https://via.placeholder.com/800x400.png?text=TLDR+Extension+in+Action+-+Summaries+%2B+Vibe%21)
 
 ---
 
